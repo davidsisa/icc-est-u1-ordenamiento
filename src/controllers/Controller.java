@@ -2,7 +2,7 @@ package controllers;
 
 import models.Person;
 import view.View;
-
+//hola
 public class Controller {
     private View view;
     private ShortingMethods shortingMethods;
